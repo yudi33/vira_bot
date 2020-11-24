@@ -3,12 +3,12 @@
 * (Scriptnya Aris187 ID).
 */
 const BotName = '🤖vira✿/bot🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
+const instagramlu = 'https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // OFFICIAL GRUP LU 2
-const grupch3 = 'https://instagram.com/_sadboy.ig'; // OFFICIAL GRUP LU 3
+const kapanbotaktif = 'Jam 11Siang—3Sore'; // Kapan bot lu aktif
+const grupch1 = 'https://chat.whatsapp.com/CXLFv9R7S2O6YsOguCEqK4'; // OFFICIAL GRUP LU 1
+const grupch2 = 'Ngak punya'; // OFFICIAL GRUP LU 2
+const grupch3 = 'Ngak punya'; // OFFICIAL GRUP LU 3
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -53,7 +53,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] AR15BOT By A187ID Ready Scan Now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] WhatsApp bot vira✿ Ready Scan QR Now!`);
 });
 
 conn.on('credentials-updated', () =>
