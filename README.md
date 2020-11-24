@@ -21,7 +21,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/aris187id/whatsapp-bot
+> git clone https://github.com/FERDIZ-afk/vira_bot
 > cd whatsapp-bot
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
@@ -60,10 +60,10 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Donate                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza-afk)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+
+* [`Instagram Admin`](https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag)
+* [`WhatsApp Admin `](https://wa.me/+6287877173955)
 
