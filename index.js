@@ -2,9 +2,9 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '🤖vira✿/bot🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
+const BotName = '🤖YudiB0T🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://www.instagram.com/Yudiputrawiratama?r=nametag'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+6281224234690'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Jam 11Siang—3Sore'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/CXLFv9R7S2O6YsOguCEqK4'; // OFFICIAL GRUP LU 1
 const grupch2 = 'Ngak punya'; // OFFICIAL GRUP LU 2
@@ -53,7 +53,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] WhatsApp bot vira✿ Ready Scan QR Now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] WhatsApp bot Yudi Ready Scan QR Now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -140,13 +140,13 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Gx boleh kasar lu Asw' ,MessageType.text);
 }
 else if (text == '$owner'){
-conn.sendMessage(id, 'Owner wa.me/+6285733553839' ,MessageType.text);
+conn.sendMessage(id, 'Owner wa.me/+6281224234690' ,MessageType.text);
 }
 else if (text == '$creator'){
-conn.sendMessage(id, 'Creator wa.me/+6285733553839' ,MessageType.text);
+conn.sendMessage(id, 'Creator wa.me/+6281224234690' ,MessageType.text);
 }
-else if (text == 'Aris'){
-conn.sendMessage(id, 'Aku BOT nya Aris' ,MessageType.text);
+else if (text == 'Yudi'){
+conn.sendMessage(id, 'Aku BOT nya Yudi' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
 conn.sendMessage(id, 'Ngentod Bapak kau_-' ,MessageType.text);
@@ -253,7 +253,7 @@ if (text.includes('$nulis')){
       imageToBase64(res.data.result)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+            conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar Allah bersama orang orang yang sabar', MessageType.text)
             const buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -269,7 +269,7 @@ conn.sendMessage(id, teks, MessageType.text)
 if (text.includes("$ytmp3")){
 const teks = text.replace(/$ytmp3 /, "")
 axios.get(`https://alfians-api.herokuapp.com/api/yta?url=${teks}`).then((res) => {
-	conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar', MessageType.text)
+	conn.sendMessage(id, '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar Allah bersama orang orang yang sabar', MessageType.text)
     let hasil = `✅Lagu Berhasil Di Download, silahkan klik link dan download hasilnya\nKlik link dibawah🗡️\n\nJudul: ${res.data.title}\n\nUkuran audio: ${res.data.filesize}\n\nLink: ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
@@ -822,7 +822,7 @@ if (text.includes("$alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Tolonglah bro jangan di ubah ubah YUDI ID
 
 
 })
