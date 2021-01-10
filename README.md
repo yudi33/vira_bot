@@ -29,8 +29,8 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
-| :-----------: | :------------------------------: |
+|    YUDI B0T    |             Feature              |
+|  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
@@ -64,6 +64,6 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza
 
 ## Sosial Media Admin
 
-* [`Instagram Admin`](https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag)
-* [`WhatsApp Admin `](https://wa.me/+6287877173955)
+* [`Instagram Admin`](https://www.instagram.com/yudiputrawiratama/)
+* [`WhatsApp Admin `](https://wa.me/+6281224234690)
 
